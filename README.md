@@ -15,11 +15,11 @@ Training and testing requires the following format as the input:
 
 Training:
 
-kspace = M x N x Coil (complex)
-ref_kspace = M x N x Coil (complex)
-mask = M x N x 2 (single) - this can be an empty matrix
-acs_end = 1 - assign to 1
-acs_start = 1 - assign to 1
+kspace = M x N x Coil (complex),
+ref_kspace = M x N x Coil (complex),
+mask = M x N x 2 (single) - this can be an empty matrix,
+acs_end = 1 - assign to 1,
+acs_start = 1 - assign to 1,
 
 Testing:
 
