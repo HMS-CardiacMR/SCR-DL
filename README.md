@@ -53,5 +53,5 @@ SCR-DL enabled highly accelerated cardiac cine imaging, significantly reducing b
 
 # Results
 
-
+Columns: R2 GRAPPA, R8 GRAPPA, R8 SENSE based deep learning, R8 Spatio-temporal regularized deeep learning, R8 spatio-coil regularized deep learning 
 ![Input](assets/res.gif)
