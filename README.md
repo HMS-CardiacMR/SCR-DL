@@ -48,3 +48,10 @@ The SCR-DL algorithm successfully reconstructed highly accelerated cine images. 
 
 Conclusions:
 SCR-DL enabled highly accelerated cardiac cine imaging, significantly reducing breath-hold time. Compared with GRAPPA or SENSE-DL, images reconstructed with SCR-DL showed superior NMSE and SSIM.
+
+
+
+# Results
+
+
+![Input](assets/res.gif)
