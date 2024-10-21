@@ -58,5 +58,7 @@ Columns:
 - R8 GRAPPA
 - R8 SENSE based deep learning
 - R8 Spatio-temporal regularized deeep learning
-- R8 spatio-coil regularized deep learning 
+- R8 spatio-coil regularized deep learning
+  
+
 ![Input](assets/res.gif)
